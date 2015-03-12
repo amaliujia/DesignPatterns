@@ -13,3 +13,4 @@ Common Design Patterns
 
 6. Factory 
 
+7. Facade
